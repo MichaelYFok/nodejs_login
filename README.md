@@ -1,3 +1,4 @@
 # nodejs_login
-js也可以用来写后台、
-很强
+听说nodejs开发很快
+初步接触nodejs
+刚刚的
